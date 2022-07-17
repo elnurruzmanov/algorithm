@@ -1,5 +1,5 @@
 "use strict";
 
-//question:  https://edabit.com/challenge/ARr5tA458o2tC9FTN
+//question:  https://edabit.com/challenge/6AnQqiEjkJdZrWhPS
 
-const hello = () => "hello edabit.com";
+const howManySeconds = (hours) => hours * 3600;
